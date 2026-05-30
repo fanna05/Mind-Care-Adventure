@@ -45,6 +45,10 @@ export function MainMenu() {
           <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white drop-shadow-2xl tracking-tight">
             Adventure
           </h2>
+
+          <p className="mt-3 text-yellow-300 text-lg md:text-xl font-semibold">
+            Group: InnoSphere 
+          </p>
           
           <p className="mt-6 text-white/90 text-base md:text-lg max-w-md mx-auto font-medium drop-shadow-lg">
             {"Embark on a journey of self-discovery through fun gameplay"}
