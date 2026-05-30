@@ -1,0 +1,6 @@
+// This is a placeholder for adventure music
+// In production, replace with an actual MP3 file at /public/adventure-music.mp3
+// You can use royalty-free adventure music from sites like:
+// - https://freemusicarchive.org
+// - https://incompetech.com
+// - https://www.bensound.com
